@@ -37,14 +37,6 @@ The Quizz-Ap is the first minor project we had in the Web-Development Bootcamp.
 It only contains HTML and CSS without any JavaScript Functionallity.
 You can find the Live deployment here: [Live Deployment](https://miriamrichter94.github.io/quizzApp/)
 
-### [Personal Website](https://github.com/miriamRichter94/personal-website)
-
-The project "Personal Website" is actually also an ongoing project, which started in the WebDevelopment-Bootcamp.
-
-The plan is that I want to combine in this all my created things. Not only show off my skills but also share my knowledge i collected in the session notes.
-
-And later maybe also Shows my gaming side.
-
 ### [Fincance Tracker raw](https://github.com/miriamRichter94/finance-tracker-raw)
 
 The "Finance Tracker raw" project is a little project to sharpen my PHP skills. Yes it is very basic and based on my experience it shouldn't be that big of a thing.
